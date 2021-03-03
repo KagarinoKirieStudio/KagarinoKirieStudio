@@ -1,2 +1,8 @@
 theme: jekyll-theme-merlot
-title: [KagarinoKirie Studio]
+plugins:
+  - jekyll-seo-tag
+title: KagarinoKirie Studio
+twitter:
+  username: benbalter
+  card: summary
+  image: https://avatars.githubusercontent.com/u/17615884?s=400&amp;v=4
